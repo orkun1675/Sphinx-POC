@@ -1,4 +1,6 @@
 
+# Created by https://www.gitignore.io/api/eclipse,osx,gradle,java
+
 ### Eclipse ###
 
 .metadata
@@ -109,3 +111,6 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
